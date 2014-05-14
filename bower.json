@@ -1,0 +1,10 @@
+{
+  "name": "jquery-ui-effects-core",
+  "version": "1.10.4",
+  "main": [
+    "js/jquery-ui.custom.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  }
+}
